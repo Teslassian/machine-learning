@@ -1,7 +1,6 @@
 # Stanford Online: Machine Learning
 
-All exercises as worked out by myself for the Machine Learning course, presented
-by Andrew Ng through Stanford Online.
+All exercises as worked out by myself for the Stanford Online Machine Learning course by Andrew Ng.
 
 ## About
 
